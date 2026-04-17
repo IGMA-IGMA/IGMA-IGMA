@@ -5,7 +5,7 @@
 
 ---
 
-## 🧰 Мой стек технологий
+## Мой стек технологий
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,go,js,flask,django,postgres,sqlite,git,docker,linux" />
