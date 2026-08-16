@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=IGMA-IGMA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Анимированный заголовок с эффектом печати (без JavaScript) -->
+<!-- Анимированный заголовок с эффектом печати -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Go;Building+reliable+APIs;Clean+architecture+%26+scalable+systems" alt="Typing SVG" />
 </p>
@@ -14,7 +14,7 @@
 
 ## IGMA-IGMA
 
-<!-- Только streak-виджет (работает через herokuapp) -->
+<!-- Streak-виджет -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGMA-IGMA&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" />
 </p>
