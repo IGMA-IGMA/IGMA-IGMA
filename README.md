@@ -18,8 +18,7 @@
 ## 🏷️ Top Languages by Repo
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IGMA-IGMA&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IGMA-IGMA&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGMA-IGMA&layout=compact&hide=html,css,makefile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="60%" />
 </p>
 
 ---
