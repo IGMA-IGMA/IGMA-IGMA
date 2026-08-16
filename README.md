@@ -2,37 +2,37 @@
 
 ## IGMA-IGMA
 
-- **12.40k** Contributions on GitHub *(за последний год)*  
-- **44** Public Repos  
-- Joined GitHub **6 years ago**  
-- **Georgia, Tbilisi**  
+<!-- Левый виджет: streak-stats (работает) -->
+<!-- Правый виджет: общая статистика (если не загрузится — скроется) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGMA-IGMA&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IGMA-IGMA&show_icons=true&hide_title=true&count_private=true&hide=issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&border_color=30363d" width="49%" onerror="this.style.display='none'" />
+</p>
 
----
-
-## 📊 Stats (вручную обновляемые)
-
-| Total Stars | Total Commits | Total PRs | Total Issues | Contributed to |
-|:-----------:|:-------------:|:---------:|:------------:|:--------------:|
-| 895         | 177           | 20        | 2            | 15             |
+<!-- График активности (если не загрузится — скроется) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IGMA-IGMA&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="90%" onerror="this.style.display='none'" />
+</p>
 
 ---
 
 ## 🏷️ Top Languages by Repo
 
-- Python  
-- Go  
-- TypeScript  
-- JavaScript  
-- (HTML, CSS, Makefile — не отображаются)
+<!-- Список языков (если не загрузится — скроется) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGMA-IGMA&layout=compact&hide=html,css,makefile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="60%" onerror="this.style.display='none'" />
+</p>
 
 ---
 
 ## 🧰 Мой стек технологий
 
+<!-- Иконки skillicons (работают) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,go,js,flask,django,postgres,sqlite,redis,git,docker,linux" />
 </p>
 
+<!-- Бейджи (работают) -->
 <p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
