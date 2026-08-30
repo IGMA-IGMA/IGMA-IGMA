@@ -10,22 +10,6 @@
 
 ---
 
-# GitHub Stats
-
-## IGMA-IGMA
-
-<!-- Streak-виджет -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGMA-IGMA&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" />
-</p>
-
-<!-- График активности (если не загрузится — скроется) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IGMA-IGMA&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="90%" onerror="this.style.display='none'" />
-</p>
-
----
-
 ## 🧰 Мой стек технологий
 
 <p align="center">
